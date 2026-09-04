@@ -1,0 +1,9 @@
+[submodule "skills/dev-methodology"]
+	path = skills/dev-methodology
+	url = https://github.com/ardith666/dev-methodology.git
+[submodule "skills/uiux-methodology"]
+	path = skills/uiux-methodology
+	url = https://github.com/ardith666/uiux-methodology.git
+[submodule "skills/diagram-design"]
+	path = skills/diagram-design
+	url = https://github.com/ardith666/diagram-design.git
